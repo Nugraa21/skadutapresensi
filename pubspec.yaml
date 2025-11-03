@@ -30,6 +30,21 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+# ------------------------------------------------------- Dependencies ------------------------------------------------------- #
+
+  camera: ^0.11.0+2
+  geolocator: ^13.0.1
+  permission_handler: ^11.3.1
+  path_provider: ^2.1.5
+  sqflite: ^2.4.0
+  sqflite_common_ffi: ^2.3.2
+  image_picker: ^1.1.2
+  intl: ^0.19.0
+  path: ^1.8.3
+  csv: ^5.0.2  # For CSV export
+
+# ------------------------------------------------------- Dependencies ------------------------------------------------------- #
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
